@@ -1,0 +1,27 @@
+@import './utils/mixins';
+@import './utils/vars';
+
+@import './base/container';
+@import './base/reset';
+@import './base/section';
+
+@import './components/buttons';
+@import './components/form';
+@import './components/spans.scss';
+
+
+
+@import './layouts/anywhere';
+@import './layouts/details';
+@import './layouts/footer';
+@import './layouts/get-quote';
+@import './layouts/header';
+@import './layouts/hero';
+@import './layouts/intro';
+@import './layouts/lisence';
+@import './layouts/location';
+@import './layouts/reliability';
+@import './layouts/request';
+@import './layouts/review';
+@import './layouts/services';
+@import './layouts/types';
